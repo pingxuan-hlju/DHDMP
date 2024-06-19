@@ -17,5 +17,5 @@ Model517.py ,Transformer.py ,model_all.py : Define the model
 ST1.slsx : Top 20 candidates for every drug  
 # run step
 1.data_process.py  
-2.train.py
-
+2.train.py  
+Before running train.py, you need to create two folders, best_parameter and result, to store the model's parameters and training results
