@@ -16,10 +16,10 @@ train.py : train the model
 Model517.py ,Transformer.py ,model_all.py : Define the model  
 ST1.slsx : Top 20 candidates for every drug  
 # data
-  drug_drug_interaction_adj.txt:Interactions between drugs
-  drugsimilarity.zip：Similarities between drugs
-  microbe_microbe_similarity:Similarities between microbes
-  net1.mat:Adjacency matrix of drug and microbe heterogeneous graph
+  drug_drug_interaction_adj.txt:Interactions between drugs  
+  drugsimilarity.zip：Similarities between drugs  
+  microbe_microbe_similarity:Similarities between microbes  
+  net1.mat:Adjacency matrix of drug and microbe heterogeneous graph  
 # run step
 1.data_process.py  
 2.train.py  
