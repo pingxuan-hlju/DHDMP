@@ -1,5 +1,5 @@
 # NGS
-Dynamic node category-sensitive hypergraph inferring and homo-heterogeneous neighbor feature and spatial dependency learning for prediction of drug-related microbes
+Dynamic category-sensitive hypergraph inferring and homo-heterogeneous neighbor feature learning for drug-related microbe prediction
 
 # Operating environment
 pytroch == 2.1.0  
